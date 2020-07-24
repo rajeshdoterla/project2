@@ -1,1 +1,2 @@
 test file with new name changed
+hi adding second line
