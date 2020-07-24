@@ -1,2 +1,3 @@
 test file with new name changed
+Hi i am adding conflict let resolve
 hi adding second line
