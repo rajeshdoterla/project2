@@ -1,2 +1,3 @@
 git learning first conflict
 hi i am first here
+i am updating this file without update or pull so happy
