@@ -1,1 +1,2 @@
 git learning first conflict
+hi i am first here
